@@ -1,2 +1,2 @@
 # embed-tomcat-template
-# spring嵌入tomcat，无需xml配置
+spring嵌入tomcat，无需xml配置
